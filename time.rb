@@ -31,5 +31,3 @@ class Timestamp
     printables.join(':')
   end
 end
-
-puts Timestamp.random(8, 20).to_s
