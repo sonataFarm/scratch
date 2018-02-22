@@ -25,7 +25,9 @@ describe "SELECT within SELECT" do
         ["Luxembourg"],
         ["Norway"],
         ["Sweden"],
-        ["Switzerland"]
+        ["Switzerland"],
+        ["Japan"],
+        ["United States of America"]
       )
     end
   end
